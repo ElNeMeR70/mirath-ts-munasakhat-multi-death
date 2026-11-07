@@ -1,0 +1,11 @@
+{
+  "name": "mirath-ts-munasakhat-multi-death",
+  "version": "1.0.0",
+  "description": "Munasakhat Sequential Multi-Generation Estate Unification Matrix (حلال مسائل المناسخات وتعدد الوفيات المتعاقبة)",
+  "main": "main.ts",
+  "scripts": {
+    "start": "npx ts-node main.ts"
+  },
+  "author": "Mahmoud ElNemer",
+  "license": "MIT"
+}
